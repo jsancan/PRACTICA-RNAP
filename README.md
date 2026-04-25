@@ -1,0 +1,1 @@
+Implementar el algoritmo del perceptrón original de Rosenblatt (con función escalón como activación) para aprender la compuerta AND. Mostrar la evolución de los pesos en cada época, verificar la convergencia y calcular la ecuación de la frontera de decisión final.
